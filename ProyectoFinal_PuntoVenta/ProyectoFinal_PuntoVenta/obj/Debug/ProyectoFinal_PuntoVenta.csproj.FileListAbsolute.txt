@@ -1,0 +1,16 @@
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\ProyectoFinal_PuntoVenta.exe.config
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\ProyectoFinal_PuntoVenta.exe
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\ProyectoFinal_PuntoVenta.pdb
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\Npgsql.dll
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\Npgsql.xml
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.csprojResolveAssemblyReference.cache
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.MenuPrincipal.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.Properties.Resources.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.Views.Pagar.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.csproj.GenerateResource.cache
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.csproj.CopyComplete
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.exe
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final\ProyectoFinal_PuntoVenta\ProyectoFinal_PuntoVenta\obj\Debug\ProyectoFinal_PuntoVenta.pdb
