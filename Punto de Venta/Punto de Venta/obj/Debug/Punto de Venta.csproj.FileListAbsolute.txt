@@ -1,0 +1,47 @@
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Form1.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.AgregarProducto.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Eliminar.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Modificar.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.Cache
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Catalogo.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Reportes.resources
+C:\Users\Johara\source\repos\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Ticket.resources
+F:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+F:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+F:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csprojResolveAssemblyReference.cache
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Catalogo.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Form1.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.AgregarProducto.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Eliminar.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Modificar.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Reportes.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Ticket.resources
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+F:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Catalogo.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Form1.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.AgregarProducto.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Eliminar.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Modificar.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Reportes.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.views.Ticket.resources
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.GenerateResource.cache
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\charl\OneDrive\Documentos\Escuela\6° Semestre\Programacion Web II\Proyecto Final Johara\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
